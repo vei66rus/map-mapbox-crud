@@ -1,0 +1,1 @@
+export { default as MapCanvas } from './ui/MapCanvas.vue'

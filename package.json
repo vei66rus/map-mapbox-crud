@@ -1,0 +1,29 @@
+{
+  "name": "crud-ui",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vue-tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@turf/bearing": "^7.2.0",
+    "@turf/destination": "^7.2.0",
+    "@turf/distance": "^7.2.0",
+    "@turf/turf": "^7.2.0",
+    "mapbox-gl": "^3.4.0",
+    "pinia": "^3.0.3",
+    "vue": "^3.4.29"
+  },
+  "devDependencies": {
+    "@types/node": "^24.3.0",
+    "@vitejs/plugin-vue": "^5.0.5",
+    "@vue/tsconfig": "^0.5.1",
+    "sass": "^1.77.6",
+    "typescript": "^5.5.3",
+    "vite": "^5.3.1",
+    "vue-tsc": "^2.0.21"
+  }
+}

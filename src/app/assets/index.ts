@@ -1,0 +1,5 @@
+import './main.scss'
+import '@/pages/map-page/ui/MapPage.scss'
+import '@/widgets/map-canvas/ui/MapCanvas.scss'
+import '@/widgets/segment-panel/ui/SegmentPanel.scss'
+import '@/widgets/hud-hints/ui/HudHints.scss'

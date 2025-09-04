@@ -1,0 +1,1 @@
+export { default as SegmentPanel } from './ui/SegmentPanel.vue'
